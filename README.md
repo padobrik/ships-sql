@@ -16,5 +16,5 @@ Solutions for classwork assignment for the model Ships database on the DATABASES
 ## Requirements
 - Oracle Application Express 10g (SQL Workshop)
 
-* General principle of SQL queries is done, you can try another IDE for this tasks
+* General principle of SQL queries is done, you can try another IDE for these tasks
 
